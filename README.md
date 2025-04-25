@@ -1,2 +1,1 @@
-# sepm_practical
-Git and github Commands
+"This is my readme file" 
